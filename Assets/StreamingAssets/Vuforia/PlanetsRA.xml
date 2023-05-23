@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="planets_target2" size="1414.000000 2000.000000" />
+    <ImageTarget name="planets_target1" size="1414.000000 2000.000000" />
+    <ImageTarget name="solar_system_target" size="1414.000000 2000.000000" />
+  </Tracking>
+</QCARConfig>
